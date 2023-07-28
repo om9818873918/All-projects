@@ -1,0 +1,24 @@
+.filter{
+    margin-top: 30px;
+    color: white;
+    font-size: 30px;
+
+    text-align: center;
+}
+.filter2:hover{
+    background-color: rgb(81, 0, 255);
+    border-radius: 10%;
+}
+.navbar{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    color: blue;
+    background-color: yellow;
+}
+.navbar:hover{
+    color: rgb(0, 0, 0);
+}
+.readMore{
+    color: aqua;
+}
